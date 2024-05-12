@@ -18,6 +18,8 @@ Panorama Image Stitching is a personal Python project that utilizes the OpenCV l
 
 - **HDR Image Generation**: Offers the ability to generate HDR image from the stitched panorama.
 
+![Panorama example](https://raw.githubusercontent.com/urossm/Panorama-Image-Stitching/main/panorama-example.png)
+
 ## Requirements
 
 - Python (version 3.1 or higher)
