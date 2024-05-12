@@ -4,7 +4,7 @@ Panorama Image Stitching is a personal Python project that utilizes the OpenCV l
 
 ## Usage
 
-1. **Input Images**: Place the images you want to stitch together in the "images" folder within the project directory.
+1. **Input Images**: Place the images you want to stitch together in the "images" folder within the project directory (there are already sample images provided for testing purposes).
 
 2. **Run the Program**: Run the Python script provided in the project.
 
